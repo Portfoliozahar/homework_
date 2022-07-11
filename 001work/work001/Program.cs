@@ -1,2 +1,7 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello");
+﻿Console.WriteLine("Write a number : ");
+int a = int.Parse(Console.ReadLine());
+
+Console.WriteLine(a%10);
+
+
+ 
