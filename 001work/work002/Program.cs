@@ -1,6 +1,4 @@
-﻿
-
-
+﻿//  Напишите программу, которая на вход принимает два числа и выдаёт, какое число большее, а какое меньшее.
         Console.WriteLine("Введи 2 числа и я скажу какое из них больше");
 
         Console.WriteLine("Введи первое число ");
@@ -14,7 +12,7 @@
 
         if (n1)
             {
-                Console.WriteLine($" {a} = max");
+                Console.WriteLine($" {a} = max {b} = min");
             }
              else if (n2)
             {
@@ -22,5 +20,5 @@
             }
              else if (n3)
             {
-                Console.WriteLine($" {b} = max");
+                Console.WriteLine($" {b} = max {a} = min");
             }
