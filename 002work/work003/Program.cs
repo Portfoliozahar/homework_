@@ -10,7 +10,7 @@ void ThirdNumber (int a)
     }
     Console.WriteLine(a % 10);
 }
-Console.Write("Write a number  ");
+Console.Write("введи число  ");
 int a = int.Parse(Console.ReadLine());
 
 ThirdNumber(a);
