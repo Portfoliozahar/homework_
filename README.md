@@ -1,5 +1,5 @@
 # homework_borodinets
 
 
-![КИСЯ](Borodinets.drawio.png)
+![КИСЯ](База/Borodinets.drawio.png)
 
